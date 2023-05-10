@@ -1,0 +1,2 @@
+# AndroidLogApp
+AndroidLogApp power JAVA
